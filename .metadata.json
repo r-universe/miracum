@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "package": "DIZtools",
+    "oncran": true
+  },
+  {
+    "package": "DIZutils",
+    "oncran": true
+  },
+  {
+    "package": "DQAgui",
+    "oncran": true
+  },
+  {
+    "package": "DQAstats",
+    "oncran": true
+  }
+]
