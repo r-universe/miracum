@@ -1,5 +1,9 @@
 [
   {
+    "package": "DIZtools",
+    "oncran": true
+  },
+  {
     "package": "DIZutils",
     "oncran": true
   },
