@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DIZtools"]
-	path = DIZtools
-	url = https://github.com/miracum/misc-diztools
-	shallow = true
-	registered = true
 [submodule "DIZutils"]
 	path = DIZutils
 	url = https://github.com/miracum/misc-dizutils
 	shallow = true
 	registered = true
-[submodule "DQAgui"]
-	path = DQAgui
-	url = https://github.com/miracum/dqa-dqagui
+[submodule "DIZtools"]
+	path = DIZtools
+	url = https://github.com/miracum/misc-diztools
 	shallow = true
 	registered = true
 [submodule "DQAstats"]
 	path = DQAstats
 	url = https://github.com/miracum/dqa-dqastats
+	shallow = true
+	registered = true
+[submodule "DQAgui"]
+	path = DQAgui
+	url = https://github.com/miracum/dqa-dqagui
 	shallow = true
 	registered = true
